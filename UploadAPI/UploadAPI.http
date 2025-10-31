@@ -1,0 +1,6 @@
+@UploadAPI_HostAddress = http://localhost:5072
+
+GET {{UploadAPI_HostAddress}}/upload/
+Accept: application/json
+
+###
